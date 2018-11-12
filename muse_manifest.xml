@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.nasarlora.ga" resolutions="1x" timestamp="1542055792834">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="282093073" ref="index"/>
+    <file name="untitled-5.css" crc="4193191577" ref="untitled-5"/>
+    <file name="untitled-4.css" crc="3981995712" ref="untitled-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="filename.mp4" crc="197235885" seo="true" mt="1533110543000"/>
+    <file name="andysaramatt-highdef.png" crc="4086416226" seo="true" mt="1533110529000"/>
+    <file name="f9e45377-2d04-4e2c-9051-1be4146ff560.jpg" crc="4057840232" seo="true" mt="1542053469000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-4:untitled-5"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-4:untitled-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-4:untitled-5"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:untitled-4:untitled-5"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-4:untitled-5"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-4:untitled-5"/>
+  </folder>
+  <folder name="images">
+    <file name="d4482de7-a3f7-41df-9def-7fa8834c73af-crop-u148.jpg" crc="491365107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cooltext305395625256870.png" crc="461370405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cooltext305395100362481.png" crc="3966551107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c18278be-d67b-43dc-a79b-e5404cec76bd-crop-u184.jpg" crc="35533253" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="151973175" seo="true" mt="1542054582498" redirect="true"/>
+  <file name="untitled-4.html" crc="4150381658" seo="true" mt="1542054769757" redirect="true"/>
+  <file name="untitled-5.html" crc="435518685" seo="true" mt="1542054489696" redirect="false"/>
+</manifest>
